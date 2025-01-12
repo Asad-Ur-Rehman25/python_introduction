@@ -255,5 +255,5 @@
 
 # passWOrd:str=""
 # User_input =str(input("enter  any text"))
-# print("YOur Conddition is",passWOrd!=User_input)
+# print("YOur Conddition is",passWOrd!=User_input
 
