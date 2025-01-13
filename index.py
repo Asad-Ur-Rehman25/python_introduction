@@ -253,7 +253,11 @@
 #     whileeloop+=1
 
 
-# passWOrd:str=""
-# User_input =str(input("enter  any text"))
-# print("YOur Conddition is",passWOrd!=User_input
+passWOrd:str=""
+User_input =str(input("enter  any text"))
+print("YOur Conddition is",passWOrd!=User_input)
+
+
+
+print("Git Hub Practice")
 
