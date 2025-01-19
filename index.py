@@ -134,6 +134,8 @@
 # intiger 
 # boolian
 # List
+# Dictionery
+# tupal
 
 
 
@@ -185,25 +187,6 @@
 #     print(f"{Table}x{ii}={Table*ii}")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Table_of_Num = int(input("Enter Number"))
 # for Table in range(1,11):
 #     print(f"{Table_of_Num} x {Table} = {Table_of_Num*Table}" )
@@ -230,16 +213,6 @@
 #     print(f"Your result Is E Grade")
 # else:
 #     print(f"Your result Is Fail")
-
-
-
-
-
-
-
-
-
-
 # rang = range(20)
 # rang = range(10,20)
 # rang = range(10,20,2)
@@ -253,11 +226,43 @@
 #     whileeloop+=1
 
 
-passWOrd:str=""
-User_input =str(input("enter  any text"))
-print("YOur Conddition is",passWOrd!=User_input)
+# passWOrd:str=""
+# User_input =str(input("enter  any text"))
+# print("YOur Conddition is",passWOrd!=User_input)
+# print("Git Hub Practice");
+# 
+num=[1,3,4,5,6,7,6]
+
+
+# 19/01/2025   
+#  dictionery Topic
+# funtion topic
 
 
 
-print("Git Hub Practice")
+
+
+
+
+
+# tupal Synyax
+# num=(10,20,30,40)
+# list method
+# Amdroid_Phone=["company","sumsung","model","A10","Memory","6gb" ]
+# print(Amdroid_Phone)
+# print(Amdroid_Phone[0])
+
+
+
+# dictionery method
+# Amdroid_Phone={"company":"sumsung","model":"A10","Memory":"6gb" }
+# print(Amdroid_Phone)
+# print(Amdroid_Phone["company"])
+
+
+# function
+def My_Func():
+    print("My_Func")
+My_Func()
+# return function
 
